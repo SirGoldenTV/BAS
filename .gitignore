@@ -1,0 +1,18 @@
+# Ignorer le dossier build (fichiers compilés)
+build/
+
+# Dossier de config VS Code
+.vscode/
+
+# Fichiers de compilation courants
+*.o
+*.obj
+*.exe
+*.out
+*.elf
+
+# Sauvegardes temporaires et fichiers système
+*~
+*.swp
+.DS_Store
+Thumbs.db
